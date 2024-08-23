@@ -1,1 +1,1 @@
-# olympic_winners_Data-Analysis
+This is the project of Olympic medal winners that shows about athlete vs gold medals they got in pie chart and then showing bar chart animation for this. Eventually make dashboard to show gold, silver and bronze medal with respect to country and Date (Year).
